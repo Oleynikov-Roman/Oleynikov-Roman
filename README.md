@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Roman 👋
 
-<!--
-**Oleynikov-Roman/Oleynikov-Roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Data science & Python programmer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+
+| PROJECT | DESCRIPTION | STACK |
+|----------------|:---------:|----------------:|
+| [EXCHANGE RATES](https://github.com/Oleynikov-Roman/exchange_rates) | ПРЕДСКАЗАНИЕ КУРСА ВАЛЮТЫ USD/EUR | pandas,requests,bs4,matplotlib,sklearn,catboost |
+| [PHONE PRICE CLASSIFICATION](https://github.com/Oleynikov-Roman/ml_phone_price_classification) | КЛАССИФИКАЦИЯ ЦЕНОВОЙ КАТЕГОРИИ ТЕЛЕФОНА | pandas,seaborn,matplotlib,sklearn,catboost |
+| [RUDA](https://github.com/Oleynikov-Roman/ruda) | ПРЕДСКАЗАНИЕ КОЭФФИЦИЕНТА ЗОЛОТОДОБЫЧИ | pandas,matplotlib,sklearn |
+| [TAXI](https://github.com/Oleynikov-Roman/taxi) | ПРОГНОЗИРОВАНИЕ ЗАКАЗОВ ТАКСИ | pandas,numpy,matplotlib,sklearn,catboost |
+| [TELECOM](https://github.com/Oleynikov-Roman/telecom) | ПРОГНОЗИРОВАНИЕ ОТТОКА КЛИЕНТОВ | pandas,numpy,sklearn,seaborn,matplotlib,sklearn |
+| [SMALL PROGRAMS](https://github.com/Oleynikov-Roman/telecom) | НЕБОЛЬШИЕ ПРОГРАММЫ ДЛЯ ТЕСТИРОВАНИЯ РАЗЛИЧНЫХ БИБЛИОТЕК | socket,qrcode |
+
+
+### Connect with me:
+* mail: roleynikoff@mail.ru
+* tg: @roleynikoff
